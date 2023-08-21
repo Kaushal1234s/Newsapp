@@ -1,0 +1,136 @@
+{
+    "status":"ok",
+    "totalResults":10,
+    "articles":[
+       {
+          "source":{
+             "id":"bbc-news",
+             "name":"BBC News"
+          },
+          "author":"BBC News",
+          "title":"Nato summit: Ukraine's future membership to be discussed by leaders in Vilnius",
+          "description":"But the meeting in Lithuania will see disagreement over Ukraine's ambition to join the military bloc.",
+          "url":"http://www.bbc.co.uk/news/world-europe-66157625",
+          "urlToImage":"https://ichef.bbci.co.uk/news/1024/branded_news/12448/production/_130342847_natoflags.jpg",
+          "publishedAt":"2023-07-11T05:22:15.1866396Z",
+          "content":"Nato leaders are gathering in Lithuania for a crucial summit that could shape the direction of the war in Ukraine and the future of the Western alliance. \r\nThe 31 allies hope to show Russia they have… [+6082 chars]"
+       },
+       {
+          "source":{
+             "id":"bbc-news",
+             "name":"BBC News"
+          },
+          "author":"BBC News",
+          "title":"US think tank founder charged with acting as Chinese agent",
+          "description":"Gal Luft is accused of illegal lobbying, arms trafficking and evading sanctions on Iran.",
+          "url":"http://www.bbc.co.uk/news/world-us-canada-66160979",
+          "urlToImage":"https://ichef.bbci.co.uk/news/1024/branded_news/DCEA/production/_130345565_91bb9ded-6da9-4af3-8972-5e697a36f6bd.png",
+          "publishedAt":"2023-07-11T02:37:15.1400823Z",
+          "content":"The head of a US think tank has been charged with acting as a Chinese agent and attempting to broker the sale of weapons and Iranian oil. \r\nGal Luft \"agreed to covertly recruit and pay\" an unnamed ex… [+2194 chars]"
+       },
+       {
+          "source":{
+             "id":"bbc-news",
+             "name":"BBC News"
+          },
+          "author":"BBC News",
+          "title":"US Senate abortion row leaves Marines leadership in limbo",
+          "description":"An Alabama senator has held up 265 nominations over a Pentagon policy ensuring access to abortion.",
+          "url":"http://www.bbc.co.uk/news/world-us-canada-66161103",
+          "urlToImage":"https://ichef.bbci.co.uk/news/1024/branded_news/17542/production/_130345559_4519900988256d6103a2fa5646e65df49cfc8680.jpg",
+          "publishedAt":"2023-07-11T02:37:14.046604Z",
+          "content":"The US Marine Corps has no confirmed commandant for the first time in more than a century and a half as a Republican senator's abortion protest blocks over 200 military appointments. \r\nTop military n… [+2984 chars]"
+       },
+       {
+          "source":{
+             "id":"bbc-news",
+             "name":"BBC News"
+          },
+          "author":"BBC News",
+          "title":"Biden visits UK: President says US-UK relationship rock solid",
+          "description":"Joe Biden's comments came as he met UK Prime Minister Rishi Sunak in London ahead of a key Nato summit.",
+          "url":"http://www.bbc.co.uk/news/uk-66156581",
+          "urlToImage":"https://ichef.bbci.co.uk/news/1024/branded_news/9F0A/production/_130341704_2602c226a2da21f3b0d12d80930ed2ae5c756d41-1.jpg",
+          "publishedAt":"2023-07-11T00:07:23.5461321Z",
+          "content":"US President Joe Biden has described relations with the UK as \"rock solid\" during talks in London with Prime Minister Rishi Sunak.\r\nMr Biden said he \"couldn't be meeting a closer friend and a greater… [+2016 chars]"
+       },
+       {
+          "source":{
+             "id":"bbc-news",
+             "name":"BBC News"
+          },
+          "author":"BBC News",
+          "title":"Quadriplegic man cycles across Canada",
+          "description":"Despite being paralysed in an accident, Kevin Mills has gained enough mobility to handcycle across Canada.",
+          "url":"http://www.bbc.co.uk/news/world-us-canada-66139299",
+          "urlToImage":"https://ichef.bbci.co.uk/news/1024/branded_news/7988/production/_130321113_p0fzn6b9.jpg",
+          "publishedAt":"2023-07-11T00:07:22.2183379Z",
+          "content":"Kevin Mills became paralysed on holiday when a rogue wave threw him to the sea floor. \r\nAlmost 15 years on, he has regained some mobility by forcing himself to move. After getting a handcycle attachm… [+234 chars]"
+       },
+       {
+          "source":{
+             "id":"bbc-news",
+             "name":"BBC News"
+          },
+          "author":"BBC News",
+          "title":"US storms: 'All hands on deck' as floods deluge US north-east",
+          "description":"Crews from several US states converge on Vermont where towns have been cut off by the inundation.",
+          "url":"http://www.bbc.co.uk/news/world-us-canada-66154757",
+          "urlToImage":"https://ichef.bbci.co.uk/news/1024/branded_news/10651/production/_130335176_untitled.png",
+          "publishedAt":"2023-07-11T00:07:20.7655743Z",
+          "content":"Media caption, New York flooding: Footage shows submerged streets\r\nMore than 13 million people in the US north-east are under flood alerts as a deadly storm that has already caused widespread damage … [+3454 chars]"
+       },
+       {
+          "source":{
+             "id":"bbc-news",
+             "name":"BBC News"
+          },
+          "author":"BBC News",
+          "title":"Jenin: Palestinian boy killed during Israeli assault was unarmed - family",
+          "description":"It comes after videos emerge of the moment the 16-year-old was killed during an Israeli assault.",
+          "url":"http://www.bbc.co.uk/news/world-middle-east-66153159",
+          "urlToImage":"https://ichef.bbci.co.uk/news/1024/branded_news/7246/production/_130345292_mediaitem130345291.jpg",
+          "publishedAt":"2023-07-11T00:07:18.795517Z",
+          "content":"Eyewitnesses and the family of a 16-year-old Palestinian shot dead during Israel's military assault in Jenin have told the BBC he was unarmed and killed \"for no reason\", after videos emerged of the m… [+6257 chars]"
+       },
+       {
+          "source":{
+             "id":"bbc-news",
+             "name":"BBC News"
+          },
+          "author":"BBC News",
+          "title":"Aretha Franklin's sons head to trial over her million-dollar estate",
+          "description":"Five years after the Queen of Soul died without a known will, her heirs are in court over her estate.",
+          "url":"http://www.bbc.co.uk/news/world-us-canada-66158755",
+          "urlToImage":"https://ichef.bbci.co.uk/news/1024/branded_news/16528/production/_130323419_gettyimages-565152187.jpg",
+          "publishedAt":"2023-07-10T20:37:19.3431673Z",
+          "content":"When Aretha Franklin died from pancreatic cancer in August 2018, it was believed that she had left behind no will to an estate worth millions.\r\nBut nine months later, three handwritten wills were fou… [+4229 chars]"
+       },
+       {
+          "source":{
+             "id":"bbc-news",
+             "name":"BBC News"
+          },
+          "author":"BBC News",
+          "title":"Turkey's Erdogan to back Sweden joining Nato - Stoltenberg",
+          "description":"Turkey's president will support Sweden's bid to join Nato, alliance chief Jens Stoltenberg says",
+          "url":"http://www.bbc.co.uk/news/world-europe-66160319",
+          "urlToImage":"https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+          "publishedAt":"2023-07-10T19:52:17.6560225Z",
+          "content":"Turkey's President Recep Tayyip Erdogan has agreed to support Sweden's bid to join Nato, the military alliance's chief Jens Stoltenberg has said.\r\nAt a briefing, he said Turkish President Recep Tayyi… [+1095 chars]"
+       },
+       {
+          "source":{
+             "id":"bbc-news",
+             "name":"BBC News"
+          },
+          "author":"BBC News",
+          "title":"Japan: Toshodaiji Kondo temple in Nara defaced by Canadian teen",
+          "description":"A 17-year-old boy reportedly carves the name \"Julian\" on an 8th Century temple in Nara, Japan.",
+          "url":"http://www.bbc.co.uk/news/world-us-canada-66158839",
+          "urlToImage":"https://ichef.bbci.co.uk/news/1024/branded_news/157E2/production/_130343088_gettyimages-834579122.jpg",
+          "publishedAt":"2023-07-10T16:52:22.3704858Z",
+          "content":"A Canadian teenager has been questioned by police in Japan after carving letters on a wooden pillar of an 8th Century temple. \r\nPolice said the 17-year-old boy carved \"Julian\" on a pillar at the Tosh… [+1750 chars]"
+       }
+    ]
+ }
