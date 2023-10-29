@@ -1,4 +1,4 @@
-It is a news application
+It is a news application that I made using React.js , Bootstrap , HTML and CSS in this application i have used API key to access the news of a particular location 
 
 
 
